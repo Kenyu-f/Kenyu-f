@@ -3,8 +3,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uyun-hirohamada-lover&show_icons=true&theme=vue-dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uyun-hirohamada-lover&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenyu-f&show_icons=true&theme=vue-dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenyu-f&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
