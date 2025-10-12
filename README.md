@@ -1,5 +1,5 @@
-# 👋 Hey there!
-### 🖥️ 16 y.o. Japanese CS Learner | 📬 Contact me anytime: [kenyu.fujimoto@icloud.com](mailto:kenyu.fujimoto@icloud.com) 
+# 👋 Hi, I'm Ken
+## 🖥️ A passionate CS learner from Japan | 📬 Contact me anytime: [kenyu.fujimoto@icloud.com](mailto:kenyu.fujimoto@icloud.com) 
 
 ---
 
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Currently Learning
-<img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vim,vscode,debian,nodejs,notion" /><br />
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## ♟️ Recently Obsessed With
-**Chess** and **Shogi** I love them.
+**Chess!!** my chess.com account is here:[k3nyu](https://www.chess.com/member/k3nyv/stats)
 
 ---
 
