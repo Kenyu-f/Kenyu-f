@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Currently Learning
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vim,vscode,debian,nodejs,notion" /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,rust,python,c,cpp,git,github,vim,vscode,debian,nodejs,notion" /><br />
 
 ---
 
