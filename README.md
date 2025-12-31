@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Ken
-## 🖥️ A passionate CS learner from Japan | 📬 Contact me anytime: [kenyu.fujimoto@icloud.com](mailto:kenyu.fujimoto@icloud.com) 
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenyu-f&show_icons=true&theme=vue-dark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenyu-f&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
