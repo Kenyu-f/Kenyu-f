@@ -2,8 +2,6 @@
 
 > High school student from Japan interested in mathematics, physics, computer science, and linguistics.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kenyu-f&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyu-f&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kenyu-f&theme=github-dark&hide_border=true)](https://github.com/Kenyu-f)
 
 ---
@@ -37,3 +35,5 @@
 Currently obsessed with chess.
 
 **Chess.com:** https://www.chess.com/member/k3nyv
+
+2026/7/8. Comment:  recently i realized im incredibly weak in chess. probably because, while im playing, i keep thinking about how knights can tile an n×n chessboard, what the necessary and sufficient conditions are, and sometimes even drift into number theory.  then i start thinking i'd probably be better off building software and contributing to effective altruism than playing chess in the first place.
