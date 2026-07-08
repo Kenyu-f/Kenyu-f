@@ -3,8 +3,8 @@
 
 ---
 
-## 🚀 Currently Learning
-<img src="https://skillicons.dev/icons?i=html,css,js,rust,python,c,cpp,git,github,vim,vscode,debian,nodejs,notion" /><br />
+## 🚀 Currently Learning/Doing
+<img src="https://skillicons.dev/icons?i=astro,bash,c,cs,cpp,cloudflare,css,debian,discord,docker,fastapi,firebase,flask,git,github,go,haskell,java,js,linux,lua,neovim,notion,obsidian,php,ruby,rust,stackoverflow,ts,vercel" /><br />
 
 ---
 
