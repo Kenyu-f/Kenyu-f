@@ -2,8 +2,8 @@
 
 > High school student from Japan interested in mathematics, physics, computer science, and linguistics.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kenyu-f&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenyu-f&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kenyu-f&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyu-f&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kenyu-f&theme=github-dark&hide_border=true)](https://github.com/Kenyu-f)
 
 ---
