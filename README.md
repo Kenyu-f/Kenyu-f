@@ -2,7 +2,7 @@
 
 > High school student from Japan interested in mathematics, physics, computer science, and linguistics.
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kenyu-f&theme=github-dark&hide_border=true)](https://github.com/Kenyu-f)
+<img src="https://github-readme-insight-terminal-ascii.vercel.app/api?username=Kenyu-f&theme=mac" />
 
 ---
 
@@ -14,19 +14,19 @@
 
 ## Current Focus
 
-- Mathematics
-- Physics
-- Computer Science
-- Linguistics
-- Learning LaTeX
+* Mathematics
+* Physics
+* Computer Science
+* Linguistics
+* Learning LaTeX
 
 ---
 
 ## Languages
 
-- 🇯🇵 Japanese — Native
-- 🇺🇸 English — Fluent
-- 🇩🇪 German — Basic
+* 🇯🇵 Japanese — Native
+* 🇺🇸 English — Fluent
+* 🇩🇪 German — Basic
 
 ---
 
@@ -36,4 +36,4 @@ Currently obsessed with chess.
 
 **Chess.com:** https://www.chess.com/member/k3nyv
 
-2026/7/8. Comment:  recently i realized im incredibly weak in chess. probably because, while im playing, i keep thinking about how knights can tile an n×n chessboard, what the necessary and sufficient conditions are, and sometimes even drift into number theory.  then i start thinking i'd probably be better off building software and contributing to effective altruism than playing chess in the first place.
+2026/7/8. Comment: recently i realized im incredibly weak in chess. probably because, while im playing, i keep thinking about how knights can tile an n×n chessboard, what the necessary and sufficient conditions are, and sometimes even drift into number theory. then i start thinking i'd probably be better off building software and contributing to effective altruism than playing chess in the first place.
